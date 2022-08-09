@@ -20,8 +20,26 @@
   box-sizing: border-box;
 }
 
-head{
-  display: none
+h1{
+  display: block;
+  font-size: 2em;
+  margin: 17.42px 0;
+  font-weight: bold;
+}
+
+p{
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  margin: 33px;
+}
+
+p{
+   display: block;
+   margin-block-start: 1em;
+   margin-block-end: 1em;
+   margin-inline-start: 0px;
+   margin-inline-end: 0px;
 }
 
 body{
