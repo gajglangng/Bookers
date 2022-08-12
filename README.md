@@ -1,24 +1,6 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+読んだ本のタイトルと、その本についての感想を投稿・編集・削除が可能
+画面は下記の4つ
+アプリケーショントップ画面
+投稿一覧画面：投稿された本の感想を一覧表示する画面（一覧表示はIDの若い順に表示する）
+投稿詳細画面：投稿された本の感想を個別に表示する画面
+投稿編集画面：投稿された本の感想を編集できる画面
